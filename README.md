@@ -8,7 +8,7 @@ This project used Node.js to create LIRI, an application that allows users to in
     * Command: "node liri.js my-tweets" - Displays the last twenty Twitter tweets of @nclespaul.
     
   * `spotify-this-song` 
-    * Command: "node liri.js spotify-this-song <song-name>" - Queries the Spotify database and returns the following information:
+    * Command: "node liri.js spotify-this-song `<song-name>`" - Queries the Spotify database and returns the following information:
       * Artist
       * Song Name
       * Spotify URL to preview the song
@@ -28,6 +28,6 @@ This project used Node.js to create LIRI, an application that allows users to in
     * If no movie title is chosen, the script queries "Mr Nobody"
       
   * `do-what-it-says"  
-    * Command: "node liri.js do-what-it-says`
+    * Command: "node liri.js do-what-it-says"
        * Reads text from the random.txt file and runs it through the spotify-this-song function, as described above.
   
