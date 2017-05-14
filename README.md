@@ -16,7 +16,7 @@ This project used Node.js to create LIRI, an application that allows users to in
     * If no movie name is chosen, the script queries "I Want it That Way" by default
       
   * `movie-this`
-    * Command: "node liri.js movie-this <movie name>" - Queries the OMD Database and returns the following information:
+    * Command: "node liri.js movie-this `<movie name>`" - Queries the OMD Database and returns the following information:
       *Movie Title
       * Year of Release
       * IMDB Rating
