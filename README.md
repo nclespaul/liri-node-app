@@ -5,7 +5,7 @@ Tools used:  Javascript, Node.js NPM's (Twitter, Spotify, Request)
 
 This project used Node.js to create LIRI, a node.js application that allows users to input search parameters using a set of four different commands.
   * "my-tweets" 
-    * Command: "node liri.js my-tweets" - Displays the last twenty twitter tweets of @nclespaul.
+    * Command: "node liri.js my-tweets" - Displays the last twenty Twitter tweets of @nclespaul.
     
   * "spotify-this-song" 
     * Command: "node liri.js spotify-this-song <song-name>" - Queries the Spotify database and returns the following information:
