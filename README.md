@@ -3,7 +3,7 @@
 - Date 05/13/17 - Week 10 of the Houston Coder's Bootcamp
 - Tools used:  Javascript, Node.js, NPM's (Twitter, Spotify, Request)
 
-This project used Node.js to create LIRI, an application that allows users to input search parameters using a set of four different commands.
+This project used Node.js to create LIRI, a command-line application that allows users to input search parameters using a set of four different commands.
   * `my-tweets`
     * Command: "node liri.js my-tweets" - Displays the last twenty Twitter tweets of @nclespaul.
     
