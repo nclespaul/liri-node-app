@@ -17,7 +17,7 @@ This project used Node.js to create LIRI, an application that allows users to in
       
   * `movie-this`
     * Command: "node liri.js movie-this `<movie name>`" - Queries the OMD Database and returns the following information:
-      *Movie Title
+      * Movie Title
       * Year of Release
       * IMDB Rating
       * Set Locations
