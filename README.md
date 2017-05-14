@@ -28,6 +28,6 @@ This project used Node.js to create LIRI, a node.js application that allows user
     If no movie title is chosen, the script queries "Mr Nobody"
       
   * "do-what-it-says"  
-    *Command" "node liri.js do-what-it-says"
-     * Reads text from the random.txt file and runs it through the spotify-this-song function, as described above.
+    *Command: "node liri.js do-what-it-says"
+      * Reads text from the random.txt file and runs it through the spotify-this-song function, as described above.
   
