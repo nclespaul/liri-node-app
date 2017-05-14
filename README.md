@@ -25,7 +25,7 @@ This project used Node.js to create LIRI, an application that allows users to in
       * Plot Summary
       * Cast
       * Rotten Tomatoes URL
-    * If no movie title is chosen, the script queries "Mr Nobody"
+    * If no movie title is chosen, the script queries "Mr Nobody" by default.
       
   * `do-what-it-says"  
     * Command: "node liri.js do-what-it-says"
