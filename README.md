@@ -13,7 +13,7 @@ This project used Node.js to create LIRI, a node.js application that allows user
       * Song Name
       * Spotify URL to preview the song
       * Album Name
-    If no movie name is chosen, the script queries "I Want it That Way" by default
+    * If no movie name is chosen, the script queries "I Want it That Way" by default
       
   * "movie-this"
     * Command: "node liri.js movie-this <movie name>" - Queries the OMD Database and returns the following information:
@@ -25,7 +25,7 @@ This project used Node.js to create LIRI, a node.js application that allows user
       * Plot Summary
       * Cast
       * Rotten Tomatoes URL
-    If no movie title is chosen, the script queries "Mr Nobody"
+    * If no movie title is chosen, the script queries "Mr Nobody"
       
   * "do-what-it-says"  
     * Command: "node liri.js do-what-it-says"
